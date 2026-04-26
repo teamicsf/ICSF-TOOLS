@@ -1,9 +1,4 @@
 ⚡ ICSF UNLIMITED ELITE - NETWORK TESTING TOOL
-
-"Python Version" (https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-"Owner" (https://img.shields.io/badge/Owner-Team%20ICSF-green?style=for-the-badge)
-"Dev" (https://img.shields.io/badge/Dev-Somser%20SA-red?style=for-the-badge)
-
 ICSF Unlimited Elite is a multi-threaded tool designed for cybersecurity research, network analysis, and authorized penetration testing only. It provides features useful for testing system performance under controlled and permitted environments.
 
 ---
