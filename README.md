@@ -12,18 +12,6 @@ ICSF Unlimited Elite is a multi-threaded tool designed for cybersecurity researc
 - Target Resolver: Converts URLs into IP addresses automatically.
 - Minimal UI: Clean and simple interface for efficient use.
 
----
-
-🛠️ Installation & Usage
-
-# Clone the repository
-git clone https://github.com/teamicsf/ICSF-TOOLS
-
-# Go to the directory
-cd ICSF-TOOLS
-
-# Run the tool
-python icsf-tools.py
 
 ---
 
@@ -31,3 +19,15 @@ python icsf-tools.py
 
 This tool is intended strictly for educational purposes and authorized testing only.
 Do not use it against systems without proper permission. Unauthorized usage may be illegal.
+
+---
+
+🛠️ Installation & Usage
+
+```bash
+pkg update && pkg upgrade
+pkg install python
+pkg install git
+git clone https://github.com/teamicsf/ICSF-TOOLS
+cd ICSF-TOOLS
+python icsf-tools.py
