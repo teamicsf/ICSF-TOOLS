@@ -14,9 +14,12 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/icsf-tools.git
-cd icsf-tools
-pip install -r requirements.txt
+pkg update && pkg upgrade
+pkg install python
+pkg install git
+git clone https://github.com/teamicsf/ICSF-TOOLS
+cd ICSF-TOOLS
+python icsf-tools.py
 ```
 
 ## Usage
@@ -38,12 +41,4 @@ Do not use it against systems without proper permission. Unauthorized usage may 
 
 ---
 
-🛠️ Installation & Usage
 
-```bash
-pkg update && pkg upgrade
-pkg install python
-pkg install git
-git clone https://github.com/teamicsf/ICSF-TOOLS
-cd ICSF-TOOLS
-python icsf-tools.py
