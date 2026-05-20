@@ -1,19 +1,35 @@
-⚡ ICSF UNLIMITED ELITE - NETWORK TESTING TOOL
-ICSF Unlimited Elite is a multi-threaded tool designed for cybersecurity research, network analysis, and authorized penetration testing only. It provides features useful for testing system performance under controlled and permitted environments.
+## Features
 
----
+- UDP Flood  
+  Overloading targets with UDP packets.
 
-🚀 Features
+- HTTP Flood  
+  Overloading web servers with HTTP requests.
 
-- Layer 4 Testing: Simulates high-volume UDP traffic for network stress testing.
-- Layer 7 Testing: Sends HTTP requests with randomized user agents to analyze server behavior.
-- Auto Threading: Optimizes performance using dynamic thread management.
-- Real-time Counter: Displays live statistics of sent requests.
-- Target Resolver: Converts URLs into IP addresses automatically.
-- Minimal UI: Clean and simple interface for efficient use.
+## Requirements
 
+- Python 3.x
+- Stable Internet Connection
 
----
+## Installation
+
+```bash
+git clone https://github.com/yourusername/icsf-tools.git
+cd icsf-tools
+pip install -r requirements.txt
+```
+
+## Usage
+
+```bash
+python icsf-tools.py
+```
+
+## Warning
+
+This project is created strictly for educational and security research purposes only.  
+Use this tool only on systems or networks you own or have explicit permission to test.  
+The developer is not responsible for any misuse or illegal activities.
 
 ⚠️ Disclaimer
 
